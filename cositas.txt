@@ -1,7 +1,13 @@
-<?php
-    echo "Adán";
-    $variables "se usan asi, y no tiene tipos fuertes";
-    $variables2 45;
-    define ("nombre", "valor"); //esto es una constante
+echo "Adán";
+$variables "se usan asi, y no tiene tipos fuertes";
+$variables2 45;
+define ("nombre", "valor"); //esto es una constante
+paso por referencia -> function algo (&$referencia), basicamente igual que c
+ejemplo de parametros por defecto
+function jk (&$valor, $valorNuevo = "esto es nuevo"){
+    $valor = $valorNuevo;
 
-?>
+}
+$valor = "valor antiguo";
+jk($valor,"esto es mas nuevo");
+echo $valor;
