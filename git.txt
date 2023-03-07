@@ -1,0 +1,21 @@
+Clona el repositorio en local.
+git clone <url>
+
+Crea un archivo.txt en tu repositorio local.
+Sube el archivo al repositorio remoto.
+git add *
+git push
+
+Modifica el archivo.txt en local y mira que le pasa al archivo en el repositorio remoto.
+hay conflicto
+
+Busca el comando para crear un nueva rama y crea una nueva rama en tu repositorio local.
+git branch <nombre>
+
+Busca el comando para borrar una rama, crea una nueva rama y bórrala.
+git branch -d <nombre>
+
+Busca el comando para cambiar de una rama a otra, crea dos ramas y cambiate de una a otra.
+git checkout <nombre>
+Busca el comando para crear una rama y cambiarte al mismo tiempo, crea una rama y prueba el comando.
+git checkout -b  <nombre>
