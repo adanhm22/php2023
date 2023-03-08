@@ -145,6 +145,4 @@ salto();
     var_dump(ej6($palabras));
     salto();
 
-
-
 ?>

@@ -39,11 +39,13 @@
     {
         $resultado = "";
         for ($i=0; $i < $numero; $i++) { 
-            $resultado = $resultado . "*+_";
+            if ($i % 3 == 0) $resultado = $resultado . "*";
+            if ($i % 3 == 1) $resultado = $resultado . "+";
+            if ($i % 3 == 2) $resultado = $resultado . "_";
         }
         return $resultado;
     }
-    echo ej3(12);
+    echo ej3(5);
     salto();
 
     /**
@@ -88,7 +90,7 @@
             $mes ++;
         }
         if ($dia < $dia2){
-            $diasEntre += sumaMes($mes2 -1) - $dia2;
+            $diasEntre += sumaMes($mes2 -1) - $dia2 - $dia;
         }else{
             $diasEntre += $dia2 - $dia;
         }
