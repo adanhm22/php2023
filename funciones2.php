@@ -55,8 +55,8 @@
     function ej4($numero)
     {
         $resultado = "";
-        for ($i=0; $i < $numero; $i++) { 
-            for ($y=0; $y < $i; $y++) { 
+        for ($i=2; $i < $numero +2; $i++) { 
+            for ($y=0; $y < $i ; $y++) { 
                 $resultado = $resultado . "*";
             }
             $resultado = $resultado . "<br>";
