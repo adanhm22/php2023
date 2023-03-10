@@ -155,4 +155,93 @@ function salto(){echo "<br><br>";}
      */
     echo "ej4: <br>"; 
 
+    class ej4 
+    {
+        private $contrasennia = "ABc12345";
+        private $longitud = 17;
+
+        public function getContrasennia() {return $this->contrasennia;}
+        public function getLongitud() {return $this->longitud;}
+        public function setLongitud ($longitud) {$this->longitud = $longitud;}
+
+        public function esFuerte()
+        {
+            $nMayus = 0;$nMinus = 0; $nNumeros = 0;
+            $letras = str_split($this->contrasennia);
+
+            foreach ($letras as $letra) {
+                if (is_numeric($letra))
+                {
+                    $nNumeros ++;
+                } elseif (ctype_upper($letra))
+                {
+                    $nMayus ++;
+                } else
+                {
+                    $nMinus ++;
+                }
+            }
+
+            if ($nMayus >= 2 && $nMinus >= 1 && $nNumeros >= 5) return true;
+            return false;
+        }
+
+        public function generarContrasennia ()
+        {
+            $longitud = $this->longitud;
+            $nMayus = 2;$nMinus = 1; $nNumeros = 5;
+            $contrasennia = "";
+            while ($longitud > 0)
+            {
+                if ($nMayus > 0)
+                {
+                    $contrasennia .= $this->genMayu();
+                    $nMayus--;
+                }elseif ($nMinus > 0)
+                {
+                    $contrasennia .= $this -> genMin();
+                    $nMinus --;
+                }elseif ($nNumeros > 0)
+                {
+                    $contrasennia .= $this -> genNum();
+                    $nNumeros --;
+                }else
+                {
+                    $contrasennia .= $this -> genRand();
+                }
+
+                $longitud --;
+            }
+            $this -> contrasennia = $contrasennia;
+            return $contrasennia;
+        }
+
+        private function genMayu ()
+        {
+            return substr(str_shuffle("ABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 1);
+        }
+
+        private function genMin ()
+        {
+            return substr(str_shuffle("abcdefghijklmnopqrstuvwxyz"), 0, 1);
+        }
+
+        private function genNum ()
+        {
+            return substr(str_shuffle("0123456789"), 0, 1);
+        }
+
+        private function genRand ()
+        {
+            return substr(str_shuffle("0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 1);
+        }
+
+    }
+
+    $ej4 = new ej4();
+    var_dump($ej4);
+
+    var_dump($ej4->esFuerte());
+    echo $ej4->generarContrasennia();
+
 ?>
