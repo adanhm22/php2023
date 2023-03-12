@@ -1,0 +1,25 @@
+html, body{
+    height:100%;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+  }
+nav, header{
+    list-style-type: none;
+    text-align: center;
+}
+
+header {
+    background-color : rgb(253, 255, 127); 
+}
+nav{
+    background-color: rgb(255, 217, 0);
+}
+footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background:#6cf;
+ }
+
