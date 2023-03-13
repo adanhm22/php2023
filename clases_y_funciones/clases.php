@@ -158,16 +158,23 @@ function salto(){echo "<br><br>";}
     class ej4 
     {
         private $contrasennia = "ABc12345";
-        private $longitud = 17;
+        private $longitud = 8;
 
         public function getContrasennia() {return $this->contrasennia;}
         public function getLongitud() {return $this->longitud;}
         public function setLongitud ($longitud) {$this->longitud = $longitud;}
 
-        public function esFuerte()
+        public function esFuerte($contrasenia = null)
         {
             $nMayus = 0;$nMinus = 0; $nNumeros = 0;
-            $letras = str_split($this->contrasennia);
+            $letras = [];
+            if ($contrasenia == null)
+            {
+                $letras = str_split($this->contrasennia);
+            } else 
+            {
+                $letras = str_split($contrasenia);
+            }
 
             foreach ($letras as $letra) {
                 if (is_numeric($letra))
@@ -186,9 +193,9 @@ function salto(){echo "<br><br>";}
             return false;
         }
 
-        public function generarContrasennia ()
+        public function generarContrasennia (bool $guardar = true, $longitud = -1)
         {
-            $longitud = $this->longitud;
+            if ($longitud < 1 ) $longitud = $this->longitud;
             $nMayus = 2;$nMinus = 1; $nNumeros = 5;
             $contrasennia = "";
             while ($longitud > 0)
@@ -212,8 +219,46 @@ function salto(){echo "<br><br>";}
 
                 $longitud --;
             }
-            $this -> contrasennia = $contrasennia;
+            if ($guardar) $this -> contrasennia = $contrasennia;
             return $contrasennia;
+        }
+
+        /**
+         * Crea un array de Passwords con el tamaño que tu le indiques por teclado.
+         */
+        public function generarContrasennias ($numero) : array
+        {
+            if ($numero <0) return [];
+            $array = [];
+            for ($i=0; $i < $numero; $i++) { 
+                array_push($array,$this->generarContrasennia(false));
+            }
+            return $array;
+        }
+
+        /**
+         * Crea un bucle que cree un objeto para cada contraseña del array y su longitud.
+         */
+        public function generarArrayContrasennias ($numero,$min = 8, $max = 20) : array
+        {
+            if ($numero <0 || $min < 0 || $max < 0) return [];
+            $array = [];
+            for ($i=0; $i < $numero; $i++) { 
+                array_push($array,$this->generarContrasennia(false, rand($min,$max)));
+            }
+            return $array;
+        }
+
+        /**
+         * Crea otro array de booleanos donde se almacene si el password del array de Password es o no fuerte.
+         */
+        public function sonFuertes (array $contrasennias)
+        {
+            $array = [];
+            foreach ($contrasennias as $contrasenia) {
+                array_push($array, $this->esFuerte($contrasenia));
+            }
+            return $array;
         }
 
         private function genMayu ()
@@ -243,5 +288,11 @@ function salto(){echo "<br><br>";}
 
     var_dump($ej4->esFuerte());
     echo $ej4->generarContrasennia();
-
+    echo "<br>";
+    var_dump($ej4->generarContrasennias(5));
+    echo "<br>";
+    $arrayContrasennias = $ej4->generarArrayContrasennias(5);
+    var_dump($arrayContrasennias);
+    echo "<br>";
+    var_dump($ej4->sonFuertes(["ASs45612","asdfghqw"]));
 ?>
