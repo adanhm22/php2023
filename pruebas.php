@@ -9,6 +9,13 @@
         }
 
         abstract public function andar ();
+        //los puntos indican argumentos variables
+        public function mostrarMucho(int ...$numeros)
+        {
+            for ($i=0; $i < sizeof($numeros); $i++) { 
+                echo "número #" . $i + 1 . ": $numeros[$i] <br>";
+            }
+        }
         
     }
 
@@ -31,5 +38,9 @@
 
     echo "<br>";
     correr($alumno,4);
+    //los 3 puntos al principio transforman el array en argumentos
+    $alumno->mostrarMucho(...[4,5,12,65,45,12,32,25]);
+    echo "<br>";
+    var_dump(...[4,5,12,65,45,12,32,25]);
 
 ?>
