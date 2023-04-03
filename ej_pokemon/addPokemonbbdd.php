@@ -43,7 +43,16 @@
 
         public function addPokemon (string $pokemon,bool $messages = false)
         {
-            $json = file_get_contents('https://pokeapi.co/api/v2/pokemon/' . $pokemon);
+            //comprobacion de que el pokemon existe en la base de datos
+            $url = 'https://pokeapi.co/api/v2/pokemon/' . $pokemon;
+            $headers = get_headers($url);
+            if ($headers[0] == "HTTP/1.1 404 Not Found") //no se ve muy guapo pero funciona
+            {
+                echo "Error, no existe el pokemon";
+                return;
+            }
+
+            $json = file_get_contents($url);
             $decoded_json = json_decode($json, true);
 
             self::addPokemonJson($decoded_json,$messages);

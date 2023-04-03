@@ -25,7 +25,13 @@
         }
         echo "</select>";
 
-        echo "<br><br> <input type='submit' value='Submit'>";
+        echo "<br><br> <input type='submit' value='Ver pokemon'>";
+        echo "</form>";
+
+        echo "<h1> Añadir pokemon</h1><br>";
+        echo "<form action = 'addPokemonUrl.php' method='GET'>";
+        echo "<input name='pokemon' type='text'><br><br>";
+        echo "<input type='submit' value='Añadir pokemon'>";
         echo "</form>";
 
     ?>
