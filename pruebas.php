@@ -40,7 +40,12 @@
     correr($alumno,4);
     //los 3 puntos al principio transforman el array en argumentos
     $alumno->mostrarMucho(...[4,5,12,65,45,12,32,25]);
-    echo "<br>";
+    echo "<br> nueva persona creada en la misma linea usando \$alumno <br>";
+    (new $alumno) -> mostrarMucho(5,7);
+    echo "<br> voy a probar a declararlo al msimo tiempo<br>";
+    (new class extends Persona {
+        public function andar () {echo "hola";}
+    }) -> mostrarMucho(12,24,36,48,56);
     var_dump(...[4,5,12,65,45,12,32,25]);
 
 ?>

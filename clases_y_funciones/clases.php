@@ -263,22 +263,30 @@ function salto(){echo "<br><br>";}
 
         private function genMayu ()
         {
-            return substr(str_shuffle("ABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 1);
+            $valores = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            return $valores[rand(0,strlen($valores) - 1)];
+            //return substr(str_shuffle("ABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 1);
         }
 
         private function genMin ()
         {
-            return substr(str_shuffle("abcdefghijklmnopqrstuvwxyz"), 0, 1);
+            $valores = "abcdefghijklmnopqrstuvwxyz";
+            return $valores[rand(0,strlen($valores) - 1)];
+           // return substr(str_shuffle("abcdefghijklmnopqrstuvwxyz"), 0, 1);
         }
 
         private function genNum ()
         {
-            return substr(str_shuffle("0123456789"), 0, 1);
+            $valores = "0123456789";
+            return $valores[rand(0,strlen($valores) - 1)];
+            //return substr(str_shuffle("0123456789"), 0, 1);
         }
 
         private function genRand ()
         {
-            return substr(str_shuffle("0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 1);
+            $valores = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            return $valores[rand(0,strlen($valores) - 1)];
+           // return substr(str_shuffle("0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"), 0, 1);
         }
 
     }
