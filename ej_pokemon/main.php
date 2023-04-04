@@ -33,6 +33,7 @@
         echo "<input name='pokemon' type='text'><br><br>";
         echo "<input type='submit' value='Añadir pokemon'>";
         echo "</form>";
+        echo "<form action='addPokemon.php'> <input type='submit' value='Añadir 10 random'></form>";
 
     ?>
 </body>

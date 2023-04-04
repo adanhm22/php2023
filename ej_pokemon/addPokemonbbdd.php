@@ -41,7 +41,7 @@
             return "";
         }
 
-        public function addPokemon (string $pokemon,bool $messages = false)
+        public function addPokemon (string $pokemon,bool $messages = false) : int
         {
             //comprobacion de que el pokemon existe en la base de datos
             $url = 'https://pokeapi.co/api/v2/pokemon/' . $pokemon;
@@ -49,16 +49,17 @@
             if ($headers[0] == "HTTP/1.1 404 Not Found") //no se ve muy guapo pero funciona
             {
                 echo "Error, no existe el pokemon";
-                return;
+                return -1;
             }
 
             $json = file_get_contents($url);
             $decoded_json = json_decode($json, true);
 
-            self::addPokemonJson($decoded_json,$messages);
+            if ($messages) echo "Añadiendo " . $pokemon;
+            return self::addPokemonJson($decoded_json,$messages);
         }
 
-        public function addPokemonJson (array $json, bool $messages = false)
+        public function addPokemonJson (array $json, bool $messages = false) : int
         {
             if ($this->bbdd == null) self::connectBbdd();
             //declaracion de id
@@ -136,6 +137,7 @@
             VALUES ('" . $elementos['nombre'] . "'," . $elementos['altura'] . ",'" . $elementos['sprite'] . "','" . $elementos['sprite_shiny'] .
             "','" . $elementos['tipo1'] . "','" . $elementos['tipo2'] . "',$idHabilidad1,$idHabilidad2,$idHabilidad_oculta,$idStats)");
             if ($messages) echo $json["name"] . " FINALIZADO<br><br>";
+            return 0;
         }
 
         public function closeBbdd ()
