@@ -1,0 +1,6191 @@
+{
+    "debilidades": [
+      {
+        "Nombre": "Yian Kut-Ku",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "80",
+                "Fuego": "10",
+                "Agua": "30",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "40",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "10",
+                "Agua": "80",
+                "Trueno": "50",
+                "Dragon": "20",
+                "Hielo": "50",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "10",
+                "Agua": "20",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "80",
+                "Impacto": "70",
+                "Fuego": "10",
+                "Agua": "20",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "10",
+                "Agua": "20",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "75",
+                "Impacto": "70",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Yian Kut-Ku Azul",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "80",
+                "Fuego": "10",
+                "Agua": "30",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "40",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "10",
+                "Agua": "80",
+                "Trueno": "50",
+                "Dragon": "20",
+                "Hielo": "50",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "10",
+                "Agua": "20",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "80",
+                "Impacto": "70",
+                "Fuego": "10",
+                "Agua": "20",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "10",
+                "Agua": "20",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "75",
+                "Impacto": "70",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Yian Garuga",
+        "Estados": [
+          {
+            "Estado": "Una oreja",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "65",
+                "Impacto": "60",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "40",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "5",
+                "Agua": "70",
+                "Trueno": "5",
+                "Dragon": "15",
+                "Hielo": "15",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "15",
+                "Agua": "40",
+                "Trueno": "15",
+                "Dragon": "30",
+                "Hielo": "30",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "40",
+                "Impacto": "20",
+                "Fuego": "5",
+                "Agua": "30",
+                "Trueno": "5",
+                "Dragon": "15",
+                "Hielo": "20",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "65",
+                "Impacto": "60",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "40",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "5",
+                "Agua": "70",
+                "Trueno": "5",
+                "Dragon": "15",
+                "Hielo": "15",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "15",
+                "Agua": "40",
+                "Trueno": "15",
+                "Dragon": "30",
+                "Hielo": "30",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "45",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "30",
+                "Trueno": "5",
+                "Dragon": "15",
+                "Hielo": "20",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "25",
+                "Impacto": "45",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Hypnocatrice",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "65",
+                "Impacto": "50",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "40",
+                "Impacto": "40",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "15",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "5",
+                "Hielo": "15",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "50",
+                "Impacto": "40",
+                "Fuego": "25",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "40",
+                "Impacto": "40",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "25",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "10",
+                "Trueno": "20",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "35",
+                "Impacto": "40",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "100 - 140 HP",
+                "Notas": "The stagger increases to 140 after the first stagger"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Cephadrome",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "5",
+                "Hielo": "30",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "110",
+                "Impacto": "100",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "5",
+                "Hielo": "15",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "100",
+                "Impacto": "90",
+                "Fuego": "0",
+                "Agua": "12",
+                "Trueno": "20",
+                "Dragon": "5",
+                "Hielo": "17",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "120",
+                "Impacto": "130",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "5",
+                "Hielo": "20",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "60",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "15",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "15",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "35",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "20",
+                "Stagger": "170 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Gypceros",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "30",
+                "Impacto": "80",
+                "Fuego": "50",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "20",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "25",
+                "Fuego": "30",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "70",
+                "Impacto": "30",
+                "Fuego": "20",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "80",
+                "Impacto": "30",
+                "Fuego": "30",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "90",
+                "Impacto": "40",
+                "Fuego": "30",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "50",
+                "Impacto": "30",
+                "Fuego": "30",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "120 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Gypceros Purpura",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "30",
+                "Impacto": "80",
+                "Fuego": "50",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "20",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "25",
+                "Fuego": "30",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "70",
+                "Impacto": "30",
+                "Fuego": "20",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "80",
+                "Impacto": "30",
+                "Fuego": "30",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "90",
+                "Impacto": "40",
+                "Fuego": "30",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "80 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "50",
+                "Impacto": "30",
+                "Fuego": "30",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "120 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Rathalos",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "80",
+                "Impacto": "70",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "15",
+                "Dragon": "30",
+                "Hielo": "40",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "10",
+                "Dragon": "20",
+                "Hielo": "30",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "15",
+                "Agua": "20",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "30",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "25",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "20",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "25",
+                "Impacto": "20",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "40",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "45",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "5",
+                "Hielo": "20",
+                "Stagger": "160 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Rathalos Celeste",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "80",
+                "Impacto": "70",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "30",
+                "Hielo": "20",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "20",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "10",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "20",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "20",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "25",
+                "Impacto": "20",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "160 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Rathalos Plateado",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "35",
+                "Impacto": "45",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "20",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "35",
+                "Impacto": "45",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "50",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "35",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "160 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Rathian",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "80",
+                "Impacto": "70",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "20",
+                "Dragon": "35",
+                "Hielo": "15",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "90 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "25",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "60",
+                "Impacto": "55",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "25",
+                "Hielo": "5",
+                "Stagger": "140 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "25",
+                "Impacto": "20",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "180 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Rathian Rosa",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "80",
+                "Impacto": "70",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "20",
+                "Dragon": "35",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "90 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "25",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "60",
+                "Impacto": "55",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "25",
+                "Hielo": "5",
+                "Stagger": "140 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "55",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "180 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Rathian Dorada",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "90 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "35",
+                "Impacto": "45",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "140 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "50",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "35",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "180 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Khezu",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "45",
+                "Impacto": "60",
+                "Fuego": "40",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "60",
+                "Impacto": "50",
+                "Fuego": "30",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "140 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "50",
+                "Impacto": "50",
+                "Fuego": "30",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "50",
+                "Impacto": "25",
+                "Fuego": "30",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "90 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "25",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "130 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Khezu Rojo",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "45",
+                "Impacto": "60",
+                "Fuego": "5",
+                "Agua": "40",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "60",
+                "Impacto": "50",
+                "Fuego": "5",
+                "Agua": "30",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "140 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "50",
+                "Impacto": "50",
+                "Fuego": "5",
+                "Agua": "30",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "50",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "30",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "5",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "90 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "25",
+                "Impacto": "20",
+                "Fuego": "5",
+                "Agua": "15",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "130 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Basarios",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "10",
+                "Agua": "15",
+                "Trueno": "10",
+                "Dragon": "18",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "15",
+                "Impacto": "20",
+                "Fuego": "10",
+                "Agua": "15",
+                "Trueno": "10",
+                "Dragon": "18",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "15",
+                "Impacto": "20",
+                "Fuego": "10",
+                "Agua": "15",
+                "Trueno": "10",
+                "Dragon": "18",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "10",
+                "Agua": "20",
+                "Trueno": "10",
+                "Dragon": "18",
+                "Hielo": "10",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago*",
+                "Corte": "75",
+                "Impacto": "75",
+                "Fuego": "25",
+                "Agua": "35",
+                "Trueno": "10",
+                "Dragon": "33",
+                "Hielo": "10",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "15",
+                "Impacto": "15",
+                "Fuego": "10",
+                "Agua": "15",
+                "Trueno": "10",
+                "Dragon": "18",
+                "Hielo": "10",
+                "Stagger": "140 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "15",
+                "Impacto": "20",
+                "Fuego": "10",
+                "Agua": "15",
+                "Trueno": "10",
+                "Dragon": "18",
+                "Hielo": "10",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Gravios",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "40",
+                "Hielo": "5",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "25",
+                "Trueno": "5",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "35",
+                "Trueno": "5",
+                "Dragon": "35",
+                "Hielo": "15",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago*",
+                "Corte": "80",
+                "Impacto": "80",
+                "Fuego": "15",
+                "Agua": "50",
+                "Trueno": "5",
+                "Dragon": "50",
+                "Hielo": "15",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "5",
+                "Dragon": "15",
+                "Hielo": "5",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "15",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "160 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Gravios Negro",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "25",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "40",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago*",
+                "Corte": "80",
+                "Impacto": "80",
+                "Fuego": "10",
+                "Agua": "90",
+                "Trueno": "5",
+                "Dragon": "30",
+                "Hielo": "0",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "15",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "160 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Monoblos",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "25",
+                "Impacto": "20",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "30",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "80",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "30",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "50",
+                "Impacto": "45",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "80",
+                "Impacto": "60",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "60",
+                "Impacto": "50",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "40",
+                "Impacto": "45",
+                "Fuego": "20",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Monoblos Blanco",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "25",
+                "Impacto": "20",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "30",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "80",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "30",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "50",
+                "Impacto": "45",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "120 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "80",
+                "Impacto": "60",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "60",
+                "Impacto": "50",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "40",
+                "Impacto": "45",
+                "Fuego": "20",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Diablos",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "25",
+                "Impacto": "10",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "30",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "45",
+                "Impacto": "65",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "35",
+                "Fuego": "10",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "30",
+                "Stagger": "220 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "20",
+                "Stagger": "220 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "60",
+                "Impacto": "55",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "20",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "40",
+                "Impacto": "55",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Diablos Negra",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "25",
+                "Impacto": "10",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "30",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "45",
+                "Impacto": "65",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "35",
+                "Fuego": "10",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "30",
+                "Stagger": "220 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "20",
+                "Stagger": "220 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "60",
+                "Impacto": "55",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "20",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "40",
+                "Impacto": "55",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Plesioth",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "25",
+                "Agua": "0",
+                "Trueno": "25",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "60",
+                "Impacto": "50",
+                "Fuego": "30",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "0",
+                "Trueno": "25",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "100",
+                "Impacto": "80",
+                "Fuego": "35",
+                "Agua": "0",
+                "Trueno": "35",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "50",
+                "Impacto": "40",
+                "Fuego": "30",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "20",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "50",
+                "Impacto": "40",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Plesioth Verde",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "25",
+                "Agua": "0",
+                "Trueno": "25",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "60",
+                "Impacto": "50",
+                "Fuego": "30",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "0",
+                "Trueno": "25",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "100",
+                "Impacto": "80",
+                "Fuego": "35",
+                "Agua": "0",
+                "Trueno": "35",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "50",
+                "Impacto": "40",
+                "Fuego": "30",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "20",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "50",
+                "Impacto": "40",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Lavasioth",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "35",
+                "Impacto": "35",
+                "Fuego": "0",
+                "Agua": "25",
+                "Trueno": "5",
+                "Dragon": "5",
+                "Hielo": "15",
+                "Stagger": "130 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "35",
+                "Impacto": "35",
+                "Fuego": "0",
+                "Agua": "25",
+                "Trueno": "15",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "45",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "5",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "40",
+                "Impacto": "35",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "15",
+                "Dragon": "5",
+                "Hielo": "15",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "40",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "15",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "30",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "5",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Congalala",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "65",
+                "Impacto": "75",
+                "Fuego": "30",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "15",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "(D)180(I)150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "15",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "**",
+                "Notas": "al atacar las patas traseras el daño se trasmite a las manos (patas de delante) del mismo lado."
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "40",
+                "Impacto": "40",
+                "Fuego": "18",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "40",
+                "Impacto": "30",
+                "Fuego": "15",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "140 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Estómago hinchado",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "65",
+                "Impacto": "75",
+                "Fuego": "30",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "65",
+                "Impacto": "15",
+                "Fuego": "15",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "(D)180(IA)150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "65",
+                "Impacto": "15",
+                "Fuego": "15",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "**",
+                "Notas": "al atacar las patas traseras el daño se trasmite a las manos (patas de delante) del mismo lado."
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "5",
+                "Impacto": "5",
+                "Fuego": "18",
+                "Agua": "0",
+                "Trueno": "0",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "35",
+                "Impacto": "30",
+                "Fuego": "15",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "5",
+                "Stagger": "140 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Congalala Esmeralda",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "30",
+                "Impacto": "50",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "(D)180(I)150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "**",
+                "Notas": "al atacar las patas traseras el daño se trasmite a las manos (patas de delante) del mismo lado."
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "40",
+                "Impacto": "40",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "18",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "50",
+                "Impacto": "30",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "40",
+                "Stagger": "140 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Estómago hinchado",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "30",
+                "Impacto": "50",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "(D)180(I)150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "**",
+                "Notas": "al atacar las patas traseras el daño se trasmite a las manos (patas de delante) del mismo lado."
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "5",
+                "Impacto": "5",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "18",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "50",
+                "Impacto": "30",
+                "Fuego": "5",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "40",
+                "Stagger": "140 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Blangonga",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "70",
+                "Impacto": "70",
+                "Fuego": "30",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "350 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "**",
+                "Notas": "al atacar las patas traseras el daño se trasmite a las manos (patas de delante) del mismo lado."
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "45",
+                "Impacto": "50",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "50",
+                "Impacto": "40",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "600 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Blangonga Cobre",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "65",
+                "Impacto": "70",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "30",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "**",
+                "Notas": "al atacar las patas traseras el daño se trasmite a las manos (patas de delante) del mismo lado."
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "50",
+                "Impacto": "40",
+                "Fuego": "10",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "600 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Daimyo Hermitaur",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "30",
+                "Agua": "10",
+                "Trueno": "35",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Concha",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "35",
+                "Impacto": "40",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pinzas",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "35",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Brazos",
+                "Corte": "40",
+                "Impacto": "45",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Escudado",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "20",
+                "Impacto": "40",
+                "Fuego": "30",
+                "Agua": "10",
+                "Trueno": "35",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Concha",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pinzas*",
+                "Corte": "15?40",
+                "Impacto": "20?50",
+                "Fuego": "35",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": "Pinzas normales ? pinzas rotas."
+              },
+              {
+                "zona": "Brazos",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Diablo Hermitaur",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "20",
+                "Agua": "10",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "35",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Concha",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "25",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "35",
+                "Impacto": "40",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pinzas",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "35",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Brazos",
+                "Corte": "40",
+                "Impacto": "45",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Escudado",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "20",
+                "Impacto": "40",
+                "Fuego": "20",
+                "Agua": "10",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "35",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Concha",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "25",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pinzas*",
+                "Corte": "15?40",
+                "Impacto": "20?50",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "35",
+                "Stagger": "100 HP",
+                "Notas": "Pinzas normales ? pinzas rotas."
+              },
+              {
+                "zona": "Brazos",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Shogun Ceanataur",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "45",
+                "Impacto": "55",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "35",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "35",
+                "Impacto": "40",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Concha",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "(D)180(I)200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pinzas",
+                "Corte": "20",
+                "Impacto": "30",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "(D)100(I)150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Brazos",
+                "Corte": "20",
+                "Impacto": "35",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Concha Rota",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "35",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Concha",
+                "Corte": "25",
+                "Impacto": "35",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "(D)180(I)200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pinzas",
+                "Corte": "25",
+                "Impacto": "35",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "(D)100(I)150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Brazos",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Shogun Ceanataur Rojo",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "45",
+                "Impacto": "55",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "35",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "35",
+                "Impacto": "40",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Concha",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "40",
+                "Trueno": "5",
+                "Dragon": "0",
+                "Hielo": "0",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "(D)180(I)200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pinzas",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "(D)100(I)150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Brazos",
+                "Corte": "25",
+                "Impacto": "35",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Concha Rota",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "35",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "60",
+                "Impacto": "50",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Concha",
+                "Corte": "25",
+                "Impacto": "35",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "25",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "35",
+                "Impacto": "35",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "(D)180(I)200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pinzas",
+                "Corte": "25",
+                "Impacto": "35",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "(D)100(I)150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Brazos",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "0",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Tigrex",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "75",
+                "Impacto": "65",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "30",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "50",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "20",
+                "Dragon": "15",
+                "Hielo": "5",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "25",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "15",
+                "Agua": "15",
+                "Trueno": "25",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "35",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "0",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Delan",
+                "Corte": "25",
+                "Impacto": "20",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "20",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "40",
+                "Impacto": "45",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "5",
+                "Hielo": "0",
+                "Stagger": "140 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Enfadado",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "80",
+                "Impacto": "70",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "35",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "55",
+                "Impacto": "55",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "20",
+                "Dragon": "15",
+                "Hielo": "5",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "50",
+                "Impacto": "45",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "25",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "15",
+                "Agua": "15",
+                "Trueno": "25",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "35",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "0",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Delan",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "25",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "40",
+                "Impacto": "45",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "5",
+                "Hielo": "0",
+                "Stagger": "140 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Nargacuga",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "50",
+                "Fuego": "35",
+                "Agua": "10",
+                "Trueno": "30",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cabeza*",
+                "Corte": "55",
+                "Impacto": "55",
+                "Fuego": "35",
+                "Agua": "10",
+                "Trueno": "30",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "30",
+                "Impacto": "40",
+                "Fuego": "25",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "30",
+                "Agua": "5",
+                "Trueno": "35",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "280 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "20",
+                "Agua": "0",
+                "Trueno": "15",
+                "Dragon": "5",
+                "Hielo": "0",
+                "Stagger": "280 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "35",
+                "Impacto": "30",
+                "Fuego": "25",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Delan",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "25",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "280 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "15",
+                "Agua": "0",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Rajang",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "60",
+                "Impacto": "60",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "0",
+                "Hielo": "30",
+                "Stagger": "500 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "350 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "**",
+                "Notas": "El daño hecho en las patas traseras se trasmite a las patas delanteras del mismo lado"
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "45",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "0",
+                "Hielo": "15",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "50",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "0",
+                "Hielo": "20",
+                "Stagger": "1000 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Kirin",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "45",
+                "Impacto": "40",
+                "Fuego": "15",
+                "Agua": "15",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "10",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerno",
+                "Corte": "90",
+                "Impacto": "100",
+                "Fuego": "5",
+                "Agua": "5",
+                "Trueno": "0",
+                "Dragon": "5",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Akantor",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "40",
+                "Hielo": "0",
+                "Stagger": "600 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "600 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "30",
+                "Dragon": "40",
+                "Hielo": "0",
+                "Stagger": "400 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "30",
+                "Hielo": "0",
+                "Stagger": "250 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Enfadado",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "20",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "600 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "15",
+                "Agua": "25",
+                "Trueno": "40",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "600 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "30",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "400 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "0",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "250 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Ukanlos",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "30",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "1200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "460 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "460 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "1200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "30",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "0",
+                "Stagger": "800 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "600 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "35",
+                "Agua": "5",
+                "Trueno": "30",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "600 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Estómago roto",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "30",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "15",
+                "Hielo": "0",
+                "Stagger": "1200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "460 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "25",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "460 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "40",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "1200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "30",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "0",
+                "Stagger": "800 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "600 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "30",
+                "Fuego": "40",
+                "Agua": "5",
+                "Trueno": "30",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "600 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Kushala Daora",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cab/Cuell",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "30",
+                "Dragon": "35",
+                "Hielo": "0",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "35",
+                "Impacto": "30",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "30",
+                "Dragon": "30",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "30",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "90 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "con el aura de viento",
+            "Zonas": [
+              {
+                "zona": "Cab/Cuell",
+                "Corte": "45",
+                "Impacto": "55",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "35",
+                "Dragon": "40",
+                "Hielo": "0",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "35",
+                "Impacto": "30",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "30",
+                "Dragon": "40",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "25",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "25",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "90 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Kushala Daora oxidado",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cab/Cuell",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "5",
+                "Agua": "35",
+                "Trueno": "5",
+                "Dragon": "30",
+                "Hielo": "0",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "15",
+                "Hielo": "0",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "35",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "5",
+                "Dragon": "25",
+                "Hielo": "0",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "0",
+                "Agua": "25",
+                "Trueno": "5",
+                "Dragon": "30",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "0",
+                "Stagger": "90 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "con aura de viento",
+            "Zonas": [
+              {
+                "zona": "Cab/Cuell",
+                "Corte": "45",
+                "Impacto": "55",
+                "Fuego": "10",
+                "Agua": "40",
+                "Trueno": "5",
+                "Dragon": "35",
+                "Hielo": "0",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "25",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "35",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "40",
+                "Trueno": "0",
+                "Dragon": "35",
+                "Hielo": "0",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "35",
+                "Fuego": "0",
+                "Agua": "25",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "0",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "90 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Chamaleos",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "45",
+                "Fuego": "35",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "35",
+                "Hielo": "0",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pecho",
+                "Corte": "35",
+                "Impacto": "25",
+                "Fuego": "35",
+                "Agua": "0",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "25",
+                "Impacto": "15",
+                "Fuego": "25",
+                "Agua": "0",
+                "Trueno": "15",
+                "Dragon": "25",
+                "Hielo": "0",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "25",
+                "Agua": "0",
+                "Trueno": "10",
+                "Dragon": "25",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "15",
+                "Dragon": "15",
+                "Hielo": "0",
+                "Stagger": "90 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "0",
+                "Stagger": "200 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Invisible",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "50",
+                "Fuego": "35",
+                "Agua": "0",
+                "Trueno": "20",
+                "Dragon": "35",
+                "Hielo": "0",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pecho",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "25",
+                "Agua": "0",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "15",
+                "Agua": "0",
+                "Trueno": "15",
+                "Dragon": "25",
+                "Hielo": "0",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "10",
+                "Dragon": "10",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "25",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "0",
+                "Trueno": "15",
+                "Dragon": "25",
+                "Hielo": "0",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "5",
+                "Dragon": "15",
+                "Hielo": "0",
+                "Stagger": "90 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "15",
+                "Impacto": "15",
+                "Fuego": "10",
+                "Agua": "0",
+                "Trueno": "10",
+                "Dragon": "5",
+                "Hielo": "0",
+                "Stagger": "200 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Lunastra",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cab/Cuell",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "30",
+                "Hielo": "25",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "35",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "35",
+                "Hielo": "25",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "35",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "15",
+                "Stagger": "**",
+                "Notas": "El daño hecho en las patas traseras se trasmite a las patas delanteras del mismo lado."
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "90 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Con Aura",
+            "Zonas": [
+              {
+                "zona": "Cab/Cuell",
+                "Corte": "40",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "35",
+                "Hielo": "30",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "15",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "15",
+                "Stagger": "160 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "35",
+                "Hielo": "25",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "15",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "20",
+                "Stagger": "**",
+                "Notas": "El daño hecho en las patas traseras se trasmite a las patas delanteras del mismo lado."
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "15",
+                "Stagger": "90 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Teostra",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cab/Cuell",
+                "Corte": "40",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "25",
+                "Trueno": "10",
+                "Dragon": "30",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "35",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "35",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "25",
+                "Trueno": "5",
+                "Dragon": "35",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "35",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "15",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "**",
+                "Notas": "El daño hecho en las patas traseras se trasmite a las patas delanteras del mismo lado."
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "90 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Con Aura",
+            "Zonas": [
+              {
+                "zona": "Cab/Cuell",
+                "Corte": "40",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "30",
+                "Trueno": "10",
+                "Dragon": "35",
+                "Hielo": "10",
+                "Stagger": "150 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "25",
+                "Impacto": "40",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "20",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "25",
+                "Trueno": "5",
+                "Dragon": "35",
+                "Hielo": "10",
+                "Stagger": "100 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Manos",
+                "Corte": "25",
+                "Impacto": "25",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pat.Tras",
+                "Corte": "25",
+                "Impacto": "30",
+                "Fuego": "0",
+                "Agua": "20",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "**",
+                "Notas": "El daño hecho en las patas traseras se trasmite a las patas delanteras del mismo lado."
+              },
+              {
+                "zona": "Alas",
+                "Corte": "20",
+                "Impacto": "15",
+                "Fuego": "0",
+                "Agua": "15",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "90 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Lao-Shan Lung",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "28",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "400 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "1200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Hombros",
+                "Corte": "10",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "600 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Tobillos",
+                "Corte": "10",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "600 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "PuntDebil",
+                "Corte": "80",
+                "Impacto": "90",
+                "Fuego": "50",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "100",
+                "Hielo": "5",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "10",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cola",
+                "Corte": "10",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "880 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "55",
+                "Impacto": "50",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "30",
+                "Hielo": "5",
+                "Stagger": "1200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "32",
+                "Impacto": "37",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "(F)600(T)880 HP",
+                "Notas": "(F) = Frontal (T) = Traseras"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Yama Tsukami",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "0",
+                "Agua": "0",
+                "Trueno": "0",
+                "Dragon": "30",
+                "Hielo": "35",
+                "Stagger": "700 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espalda",
+                "Corte": "50",
+                "Impacto": "60",
+                "Fuego": "0",
+                "Agua": "0",
+                "Trueno": "0",
+                "Dragon": "25",
+                "Hielo": "20",
+                "Stagger": "400 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Ojo",
+                "Corte": "90",
+                "Impacto": "90",
+                "Fuego": "5",
+                "Agua": "0",
+                "Trueno": "0",
+                "Dragon": "20",
+                "Hielo": "25",
+                "Stagger": "500 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "65",
+                "Impacto": "60",
+                "Fuego": "0",
+                "Agua": "0",
+                "Trueno": "0",
+                "Dragon": "30",
+                "Hielo": "25",
+                "Stagger": "800 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Boca",
+                "Corte": "80",
+                "Impacto": "70",
+                "Fuego": "0",
+                "Agua": "10",
+                "Trueno": "0",
+                "Dragon": "50",
+                "Hielo": "40",
+                "Stagger": "400 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Tentáculo",
+                "Corte": "55",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "0",
+                "Trueno": "0",
+                "Dragon": "20",
+                "Hielo": "30",
+                "Stagger": "400 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "50",
+                "Impacto": "50",
+                "Fuego": "0",
+                "Agua": "0",
+                "Trueno": "0",
+                "Dragon": "30",
+                "Hielo": "30",
+                "Stagger": "1000 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Shen Gaoren",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Face",
+                "Corte": "38",
+                "Impacto": "40",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "20",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "400 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuerpo",
+                "Corte": "40",
+                "Impacto": "45",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "30",
+                "Hielo": "5",
+                "Stagger": "800 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Concha",
+                "Corte": "10",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "1000 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "32",
+                "Impacto": "37",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "500 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pinzas",
+                "Corte": "10",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "880 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Brazos",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "-",
+                "Notas": ""
+              },
+              {
+                "zona": "PuntDebil*",
+                "Corte": "80",
+                "Impacto": "90",
+                "Fuego": "20",
+                "Agua": "5",
+                "Trueno": "15",
+                "Dragon": "100",
+                "Hielo": "5",
+                "Stagger": "-",
+                "Notas": "El punto débil es dentro de la concha."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Fatalis",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cara",
+                "Corte": "80",
+                "Impacto": "75",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "80",
+                "Hielo": "10",
+                "Stagger": "500 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "55",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "50",
+                "Hielo": "10",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Back/Cola",
+                "Corte": "10",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "30",
+                "Hielo": "10",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pecho",
+                "Corte": "10",
+                "Impacto": "15",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Fatalis Carmesí",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cara",
+                "Corte": "50",
+                "Impacto": "45",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "80",
+                "Hielo": "5",
+                "Stagger": "500 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cabeza",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "50",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espa/Cola",
+                "Corte": "10",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "30",
+                "Hielo": "5",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pecho",
+                "Corte": "10",
+                "Impacto": "15",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Modo armadura",
+            "Zonas": [
+              {
+                "zona": "Cara",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "500 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cabeza",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espa/Cola",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pecho",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Fatalis Blanco",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cara",
+                "Corte": "80",
+                "Impacto": "75",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "80",
+                "Hielo": "10",
+                "Stagger": "500 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cabeza",
+                "Corte": "50",
+                "Impacto": "55",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "50",
+                "Hielo": "10",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espa/Cola",
+                "Corte": "10",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "30",
+                "Hielo": "10",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pecho",
+                "Corte": "10",
+                "Impacto": "15",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "30",
+                "Impacto": "25",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "20",
+                "Impacto": "20",
+                "Fuego": "15",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "20",
+                "Hielo": "10",
+                "Stagger": "200 HP",
+                "Notas": ""
+              }
+            ]
+          },
+          {
+            "Estado": "Modo armadura",
+            "Zonas": [
+              {
+                "zona": "Cara",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "500 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cabeza",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "250 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Espa/Cola",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "180 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Cuello",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pecho",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "300 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Alas",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "240 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Estómago",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              },
+              {
+                "zona": "Pata",
+                "Corte": "10",
+                "Impacto": "10",
+                "Fuego": "10",
+                "Agua": "5",
+                "Trueno": "5",
+                "Dragon": "10",
+                "Hielo": "5",
+                "Stagger": "200 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Bulldrome",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cuerpo",
+                "Corte": "80",
+                "Impacto": "70",
+                "Fuego": "50",
+                "Agua": "50",
+                "Trueno": "80",
+                "Dragon": "10",
+                "Hielo": "40",
+                "Stagger": "120 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Giadrome",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cuerpo",
+                "Corte": "100",
+                "Impacto": "100",
+                "Fuego": "60",
+                "Agua": "30",
+                "Trueno": "30",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "80 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Velocidrome",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cuerpo",
+                "Corte": "100",
+                "Impacto": "100",
+                "Fuego": "50",
+                "Agua": "50",
+                "Trueno": "50",
+                "Dragon": "10",
+                "Hielo": "60",
+                "Stagger": "110 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Gendrome",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cuerpo",
+                "Corte": "90",
+                "Impacto": "90",
+                "Fuego": "35",
+                "Agua": "10",
+                "Trueno": "40",
+                "Dragon": "10",
+                "Hielo": "50",
+                "Stagger": "180 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Iodrome",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cuerpo",
+                "Corte": "80",
+                "Impacto": "80",
+                "Fuego": "20",
+                "Agua": "30",
+                "Trueno": "30",
+                "Dragon": "10",
+                "Hielo": "10",
+                "Stagger": "220 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "King Shakalaka",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cuerpo",
+                "Corte": "40",
+                "Impacto": "40",
+                "Fuego": "35",
+                "Agua": "10",
+                "Trueno": "10",
+                "Dragon": "10",
+                "Hielo": "20",
+                "Stagger": "240 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "Nombre": "Vespoid Reina",
+        "Estados": [
+          {
+            "Estado": "Normal",
+            "Zonas": [
+              {
+                "zona": "Cuerpo",
+                "Corte": "100",
+                "Impacto": "100",
+                "Fuego": "60",
+                "Agua": "40",
+                "Trueno": "10",
+                "Dragon": "0",
+                "Hielo": "40",
+                "Stagger": "400 HP",
+                "Notas": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

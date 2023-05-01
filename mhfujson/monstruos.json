@@ -1,0 +1,403 @@
+﻿{
+    "Monstruos": [
+        {
+            "Nombre": "Akantor",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Un Wyvern verdaderamente envuelto en misterio. Conocido por algunos como Dios Negro y por otros como Tirano del Fuego, este grande y brutal monstruo es llamado por el Gremio simplemente como Akantor.",
+            "Notas": "Lanzarle una bomba sónica antes de usar su túnel de viento lo aturdirá y dejará caer un destello, no funciona si está enfurecido.",
+            "Signo debilidad": "cojeará durante unos segundos."
+        },
+        {
+            "Nombre": "Basarios",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Gran Wyvern que habita en zonas volcánicas. Son Gravios jóvenes. Con un caparazón parecido al acero que sólo se puede romper con potentes armas. Emite un gas venenoso.",
+            "Notas": "El pecho del Basarios se puede romper, y una vez roto, se vuelve más vulnerable al daño en esta zona.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Blangonga",
+            "Tipo": "Bestia de Colmillos",
+            "Descripción": "Líder del grupo Blango, es el doble de grande y se caracteriza por sus colmillos, bigotes y su corona. Enviará a su manada a atacar a cualquier intruso. Su poder de salto le permite una gran movilidad en su hábitat de las Montañas Nevadas.",
+            "Notas": "\"puede \"\"frotarse/limpiarse\"\" la cara, eliminando el efecto de bolas de pintura.\"",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Blangonga Cobre",
+            "Tipo": "Bestia de Colmillos",
+            "Descripción": "Líder del grupo Blango, es el doble de grande y se caracteriza por sus colmillos, bigotes y su corona. Enviará a su manada a atacar a cualquier intruso. Su poder de salto le permite una gran movilidad en su hábitat de las Montañas Nevadas.",
+            "Notas": "\"puede \"\"frotarse/limpiarse\"\" la cara, eliminando el efecto de bolas de pintura.\"",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Bulldrome",
+            "Tipo": "Bestia de Colmillos",
+            "Descripción": "Cuando usas una trampa choque y bombas tranquilizantes, se queda bocaarriba dormido.",
+            "Notas": "Cuando usas una trampa choque y bombas tranquilizantes, se queda bocaarriba dormido.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Cephadrome",
+            "Tipo": "Wyvern Nadador",
+            "Descripción": "Monstruo alfa del Cephalos. Más grande y acorazado con escamas negras, encaja en su papel de líder. Sus aletas tienen una toxina paralizante.",
+            "Notas": "Las bombas sónicas son útiles para sacarlo de la arena al igual que con los Cephalos.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Chamaleos",
+            "Tipo": "Dragón Anciano",
+            "Descripción": "Los avistamientos de estos Dragones Ancianos son muy raros debido a su habilidad de literalmente desvanecerse, aunque los detalles de ello no están claros. Se cree que al golpearlo reaparece, pero no está demostrado.",
+            "Notas": "Al cortar la cola o romper el cuerno del Chameleos, perderá su habilidad de camuflarse.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Congalala",
+            "Tipo": "Bestia de Colmillos",
+            "Descripción": "Un gran Pelagus de pelaje rosa a menudo visto en junglas y pantanos. Aficionado a los hongos, su dieta afecta a su aliento, que puede ser venenoso o ardiente. Se pueden predecir estos rasgos a través de la comida en su hábitat local.",
+            "Notas": "Si los cazadores ponen carne en el suelo, el Congalala intentará comérsela.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Congalala Esmeralda",
+            "Tipo": "Bestia de Colmillos",
+            "Descripción": "Un gran Pelagus de pelaje rosa a menudo visto en junglas y pantanos. Aficionado a los hongos, su dieta afecta a su aliento, que puede ser venenoso o ardiente. Se pueden predecir estos rasgos a través de la comida en su hábitat local.",
+            "Notas": "Si los cazadores ponen carne en el suelo, el Congalala intentará comérsela.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Daimyo Hermitaur",
+            "Tipo": "Carapaceon",
+            "Descripción": "\"",
+            "Notas": "Gran Carapaceon que porta el cráneo gigante de un monstruo en la espalda. Aficionado a la arena, es a menudo visto en desiertos y junglas. De hábitos subterráneos, sale a la superficie cuando está hambriento.\"",
+            "Signo debilidad": "Si se usa una bomba sónica mientras se esconde, caerá aturdido durante unos segundos, dejándolo expuesto a ataques."
+        },
+        {
+            "Nombre": "Diablo Hermitaur",
+            "Tipo": "Carapaceon",
+            "Descripción": "\"",
+            "Notas": "Gran Carapaceon que porta el cráneo gigante de un monstruo en la espalda. Aficionado a la arena, es a menudo visto en desiertos y junglas. De hábitos subterráneos, sale a la superficie cuando está hambriento.\"",
+            "Signo debilidad": "Si se usa una bomba sónica mientras se esconde, caerá aturdido durante unos segundos, dejándolo expuesto a ataques."
+        },
+        {
+            "Nombre": "Diablos",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Wyverns cornudos encontrados en zonas desérticas. Pueden excavar en la arena y atacar desde abajo. Extremadamente agresivos y orgullosos, desatan su ira contra todo lo que les molesta.",
+            "Notas": "Cuando carga y choca con una pared sus cuernos quedarán atrapados y tardará un rato en soltarse. Esto no funciona cuando se rompen.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Diablos Negra",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Wyverns cornudos encontrados en zonas desérticas. Pueden excavar en la arena y atacar desde abajo. Extremadamente agresivos y orgullosos, desatan su ira contra todo lo que les molesta.",
+            "Notas": "Cuando carga y choca con una pared sus cuernos quedarán atrapados y tardará un rato en soltarse. Esto no funciona cuando se rompen.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Fatalis",
+            "Tipo": "Dragón Anciano",
+            "Descripción": "Legendario dragón negro que dicen que merodeaba por aquí en la antigüedad. Muchos hábiles cazadores intentaron desafiarlo, pero ninguno ha regresado. Un monstruo misterioso…",
+            "Notas": "Si se daña lo suficiente, el Fatalis entrará en Modo Furia hasta morir.",
+            "Signo debilidad": "Ninguno"
+        },
+        {
+            "Nombre": "Fatalis Blanco",
+            "Tipo": "Dragón Anciano",
+            "Descripción": "Legendario dragón negro que dicen que merodeaba por aquí en la antigüedad. Muchos hábiles cazadores intentaron desafiarlo, pero ninguno ha regresado. Un monstruo misterioso…",
+            "Notas": "Si se daña lo suficiente, el Fatalis entrará en Modo Furia hasta morir.",
+            "Signo debilidad": "Ninguno"
+        },
+        {
+            "Nombre": "Fatalis Carmesí",
+            "Tipo": "Dragón Anciano",
+            "Descripción": "Legendario dragón negro que dicen que merodeaba por aquí en la antigüedad. Muchos hábiles cazadores intentaron desafiarlo, pero ninguno ha regresado. Un monstruo misterioso…",
+            "Notas": "Si se daña lo suficiente, el Fatalis entrará en Modo Furia hasta morir.",
+            "Signo debilidad": "Ninguno"
+        },
+        {
+            "Nombre": "Gendrome",
+            "Tipo": "Wyvern volador",
+            "Descripción": "El monstruo alfa que lidera las manadas de Genprey. Más grandes y con cresta prominente. Están en el desierto. Paralizan a la presa con sus garras y colmillos tóxicos.",
+            "Notas": "",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Giadrome",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Líder alfa de las manadas de Giaprey, el Giadrome tiene una cresta hermosa. Es más grande que un Giaprey, cualquier cazador ignorante que entre en su territorio, quedará helado por una lluvia de hielo.",
+            "Notas": "",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Gravios",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Un gran Wyvern encontrado en zonas volcánicas. Posee un poderoso aliento de fuego y la habilidad de emitir gas somnífero. Poseen también unas duras escamas que repelerán las armas débiles.",
+            "Notas": "Tras romper su vientre por segunda vez se volverá su parte más débil, Romper su lomo incapacitará su habilidad de expulsar gas.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Gravios Negro",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Un gran Wyvern encontrado en zonas volcánicas. Posee un poderoso aliento de fuego y la habilidad de emitir gas somnífero. Poseen también unas duras escamas que repelerán las armas débiles.",
+            "Notas": "Tras romper su vientre por segunda vez se volverá su parte más débil, Romper su lomo incapacitará su habilidad de expulsar gas.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Gypceros",
+            "Tipo": "Wyvern pájaro",
+            "Descripción": "Wyvern que puede generar destellos de luz desorientadores cuando recibe un ataque. Su pellejo de goma resiste el daño. Su flema resulta mortal. Son bastante tímidos.",
+            "Notas": "A pesar de poseer una táctica inteligente de hacerse el muerto, es inefectiva ya que no aparecerá el mensaje de misión completada. Y tras un rato se pondrá a agitarse causando un gran daño a quien esté cerca, esto se puede prevenir observando el destello del cristal sobre su cabeza (si se rompe ya no se podrá saber).",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Gypceros Purpura",
+            "Tipo": "Wyvern pájaro",
+            "Descripción": "Wyvern que puede generar destellos de luz desorientadores cuando recibe un ataque. Su pellejo de goma resiste el daño. Su flema resulta mortal. Son bastante tímidos.",
+            "Notas": "A pesar de poseer una táctica inteligente de hacerse el muerto, es inefectiva ya que no aparecerá el mensaje de misión completada. Y tras un rato se pondrá a agitarse causando un gran daño a quien esté cerca, esto se puede prevenir observando el destello del cristal sobre su cabeza (si se rompe ya no se podrá saber).",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Hypnocatrice",
+            "Tipo": "Wyvern pájaro",
+            "Descripción": "Wyvern en forma de pájaro de color de herrumbre que se encuentra principalmente en los bosques. Pacífico por naturaleza, exhala gas somnífero sobre sus enemigos y presas. Sus patas fuertes y desarrolladas golpean fuerte, ¡ten cuidado!",
+            "Notas": "",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Iodrome",
+            "Tipo": "Wyvern volador",
+            "Descripción": "El monstruo alfa que lidera las manadas de Ioprey. Más grandes y con cresta prominente. Están en zonas subtropicales. Escupen un veneno que puede matar a la presa.",
+            "Notas": "",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Khezu",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Wyverns detestables que viven en cuevas. Casi ciegos, detectan a la presa por el olfato. Generan descargas eléctricas para paralizar a su presa.",
+            "Notas": "Al carecer de ojos, el Khezu no puede ver al cazador. Esto causa que no aparezca el icono de Avistado (ojo amarillo), por lo que el cazador no podrá correr rápidamente ni saltar en pánico, y tampoco sonará música de combate durante la pelea.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Khezu Rojo",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Wyverns detestables que viven en cuevas. Casi ciegos, detectan a la presa por el olfato. Generan descargas eléctricas para paralizar a su presa.",
+            "Notas": "Al carecer de ojos, el Khezu no puede ver al cazador. Esto causa que no aparezca el icono de Avistado (ojo amarillo), por lo que el cazador no podrá correr rápidamente ni saltar en pánico, y tampoco sonará música de combate durante la pelea.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "King Shakalaka",
+            "Tipo": "Lynian",
+            "Descripción": "Un objeto similar a una corona descansa sobre este jefe de la banda Shakalaka. Muchos cazadores hábiles se han visto frustrados por los acólitos que atrae. Ten cuidado, porque es poderoso. Enfurecido, desencadena un ataque enormemente fuerte.",
+            "Notas": "",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Kirin",
+            "Tipo": "Dragón Anciano",
+            "Descripción": "Se dice que el Kirin brilla con un débil resplandor azul, pero lo han visto tan pocos que los detalles son escasos. Es aparentemente capaz de llamar relámpagos a voluntad. El material de Kirin es muy valioso.",
+            "Notas": "Cuando se enfurece, la parte trasera de su cuerpo entra en modo armadura y rechaza todos los ataques.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Kushala Daora",
+            "Tipo": "Dragón Anciano",
+            "Descripción": "Un dragón de metal plateado conocido como la tempestad de viento. Testigos informan de violentas tormentas junto al dragón, y su extenso alcance indica que las ciudades pueden ser atacadas.",
+            "Notas": "El aura que le rodea genera presión del viento a su alrededor, empujando a los cazadores y dejándolos vulnerables. Puede anularse al envenenarlo, aturdirlo o paralizarlo",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Kushala Daora oxidado",
+            "Tipo": "Dragón Anciano",
+            "Descripción": "Un dragón de metal plateado conocido como la tempestad de viento. Testigos informan de violentas tormentas junto al dragón, y su extenso alcance indica que las ciudades pueden ser atacadas.",
+            "Notas": "El aura que le rodea genera presión del viento a su alrededor, empujando a los cazadores y dejándolos vulnerables. Puede anularse al envenenarlo, aturdirlo o paralizarlo",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Lao-Shan Lung",
+            "Tipo": "Dragón Anciano",
+            "Descripción": "Un dragón gigante que pocos han visto y vivido para contarlo. Cuando está furioso causa estragos por donde quiera que vaya. El gremio ha construido una fortaleza para repelerlo pero, ¿resistirá?",
+            "Notas": "Sólo puede ser abatido en el área 5 aunque si se le inflige suficiente daño antes de entrar, colapsará durante unos segundos.",
+            "Signo debilidad": "Ninguno"
+        },
+        {
+            "Nombre": "Lavasioth",
+            "Tipo": "Wyvern Nadador",
+            "Descripción": "Un Wyvern Piscine que vive en el magma. Sus escamas están cubiertas por capas de lava endurecida, lo que lo convierte en un escudo duro de romper. Nada por la lava, arrojando rocas fundidas para herir a su presa. Los científicos adoran su peculiar estilo de vida.",
+            "Notas": "",
+            "Signo debilidad": "el magma que fluye por sus venas desaparecerá"
+        },
+        {
+            "Nombre": "Lunastra",
+            "Tipo": "dragón Anciano",
+            "Descripción": "Un brutal Dragón Anciano femenino con aliento de llama y control sobre el fuego. Se dice que este control proviene de las crestas de su cabeza, pero no ha sido confirmado.",
+            "Notas": "La chispa que provoca con sus colmillos puede ser de dos colores. Si es roja, la explosión será de corto alcance, y si es amarilla, será de gran alcance.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Monoblos",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Un wyvern con un gran cuerno encontrado en el desierto. Su enorme cuerno es un arma letal. Aunque no puede lanzar llamaradas, su grito es la pesadilla de los cazadores.",
+            "Notas": "si choca contra una pared rocosa al cargar, su cuerno quedará clavado y tardará en liberarse. No funciona cuando el cuerno se ha roto.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Monoblos Blanco",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Un wyvern con un gran cuerno encontrado en el desierto. Su enorme cuerno es un arma letal. Aunque no puede lanzar llamaradas, su grito es la pesadilla de los cazadores.",
+            "Notas": "si choca contra una pared rocosa al cargar, su cuerno quedará clavado y tardará en liberarse. No funciona cuando el cuerno se ha roto.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Nargacuga",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Wyvern de evolución única que vive en los bosques. Se oculta en las sombras y acecha astutamente a sus presas con terrorífica velocidad y tenacidad. Su cola, única, puede acabar con un monstruo mediano de una sola sacudida.",
+            "Notas": "Se le puede aturdir con una bomba sónica al ponerse en posición para realizar su ataque en zig-zag, sin embargo entrará en modo furia y dejará de ser eficaz.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Plesioth",
+            "Tipo": "Wyvern nadador",
+            "Descripción": "Enorme wyvern acuático no volador con alas convertidas en aletas para nadar. Aunque parece un pez, puede moverse bien por tierra. Les encantan las ranas.",
+            "Notas": "En algunas zonas es posible pescar al Plesioth utilizando una rana.",
+            "Signo debilidad": "Baja Aleta"
+        },
+        {
+            "Nombre": "Plesioth Verde",
+            "Tipo": "Wyvern nadador",
+            "Descripción": "Enorme wyvern acuático no volador con alas convertidas en aletas para nadar. Aunque parece un pez, puede moverse bien por tierra. Les encantan las ranas.",
+            "Notas": "En algunas zonas es posible pescar al Plesioth utilizando una rana.",
+            "Signo debilidad": "Baja Aleta"
+        },
+        {
+            "Nombre": "Rajang",
+            "Tipo": "Bestia de Colmillos",
+            "Descripción": "Bestia increíblemente agresiva que rara vez se ve y se sobrevive. Los testigos que han sobrevivido dicen que ataca de forma extraña. El Rajang es solitario y su vida aislada dificulta determinar sus inclinaciones territoriales.",
+            "Notas": "Si se le aturde con una bomba destello no se quedará quieto a diferencia de otros monstruos.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Rathalos",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Wyvern macho que mantiene un nido y patrulla su territorio desde el aire en busca de su presa. Tiene las garras llenas de un veneno que debilita a la presa.",
+            "Notas": "\"Cuando de repente empieza a sacar fuego por la boca como si estuviese \"\"babeando\"\", significa que está débil y enfurecido. Si seguís atacando, acabará presentando cojera.\"",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Rathalos Celeste",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Wyvern macho que mantiene un nido y patrulla su territorio desde el aire en busca de su presa. Tiene las garras llenas de un veneno que debilita a la presa.",
+            "Notas": "\"Cuando de repente empieza a sacar fuego por la boca como si estuviese \"\"babeando\"\", significa que está débil y enfurecido. Si seguís atacando, acabará presentando cojera.\"",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Rathalos Plateado",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Wyvern macho que mantiene un nido y patrulla su territorio desde el aire en busca de su presa. Tiene las garras llenas de un veneno que debilita a la presa.",
+            "Notas": "\"Cuando de repente empieza a sacar fuego por la boca como si estuviese \"\"babeando\"\", significa que está débil y enfurecido. Si seguís atacando, acabará presentando cojera.\"",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Rathian",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Versión hembra del Wyvern Rathalos. A diferencia del macho, suele patrullar el territorio desde el suelo. Las púas de la cola tienen veneno.",
+            "Notas": "Cuando se cansa, fallará al intentar lanzar bolas de fuego, aunque la llama de la boca puede dañar al cazador si está muy cerca.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Rathian Dorada",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Versión hembra del Wyvern Rathalos. A diferencia del macho, suele patrullar el territorio desde el suelo. Las púas de la cola tienen veneno.",
+            "Notas": "Cuando se cansa, fallará al intentar lanzar bolas de fuego, aunque la llama de la boca puede dañar al cazador si está muy cerca.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Rathian Rosa",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Versión hembra del Wyvern Rathalos. A diferencia del macho, suele patrullar el territorio desde el suelo. Las púas de la cola tienen veneno.",
+            "Notas": "Cuando se cansa, fallará al intentar lanzar bolas de fuego, aunque la llama de la boca puede dañar al cazador si está muy cerca.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Shen Gaoren",
+            "Tipo": "Carapaceon",
+            "Descripción": "Enorme Carapaceon con un cráneo igual de enorme en la espalda. Ronda por su territorio, enfrentándose a cualquier intruso. Las ciudades o fortalezas cercanas tienen que estar atentas a sus movimientos.",
+            "Notas": "Al llegar a una cornisa alta, es posible saltar sobre el lomo del Shen Gaoren después de que éste dispare una bola de ácido.",
+            "Signo debilidad": "Ninguno"
+        },
+        {
+            "Nombre": "Shogun Ceanataur",
+            "Tipo": "Carapaceon",
+            "Descripción": "Gran carapaceon con un cráneo de monstruo gigante en la espalda. Sus largas y afiladas pinzas le ayudan a abrirse paso por la dura roca volcánica. A veces puede encontrarse una rara perla dentro de su concha.",
+            "Notas": "En modo furia burbujeará saliva por la boca y sus pinzas se extenderán aumentando el área de ataque.",
+            "Signo debilidad": "Burbujas Oscuras"
+        },
+        {
+            "Nombre": "Shogun Ceanataur Rojo",
+            "Tipo": "Carapaceon",
+            "Descripción": "Gran carapaceon con un cráneo de monstruo gigante en la espalda. Sus largas y afiladas pinzas le ayudan a abrirse paso por la dura roca volcánica. A veces puede encontrarse una rara perla dentro de su concha.",
+            "Notas": "En modo furia burbujeará saliva por la boca y sus pinzas se extenderán aumentando el área de ataque.",
+            "Signo debilidad": "Burbujas Oscuras"
+        },
+        {
+            "Nombre": "Teostra",
+            "Tipo": "Dragón Anciano",
+            "Descripción": "Un brutal Dragón Anciano masculino con aliento de llama y control sobre el fuego. Su vil temperamento indica que cualquier persona que se acerque será sometida a fuego y azufre. Conocido por atacar ciudades, el Gremio está alerta a sus movimientos.",
+            "Notas": "Se puede saber el rango de sus explosiones por el color del polvo. Si es amarillo, el anillo de explosiones será lejos, si es rojo, será cerca.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Tigrex",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Un Wyvern Volador que mantiene sus orígenes primitivos. Propensos a la violencia, posee una increíble ferocidad, atacan con garras y dientes. Habita principalmente en los desiertos, pero se le ha visto cazar Popos en las montañas.",
+            "Notas": "Cuando se enfurece, sus patas y cara se inflaman y se tornan de un rojo intenso, además su velocidad de ataque aumenta, aunque las partes inflamadas se vuelven más débiles.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Ukanlos",
+            "Tipo": "Wyvern volador",
+            "Descripción": "Un misterioso wyvern, se dice que sólo aparece después de grandes aludes en lo profundo de las Montañas Nevadas. Se le ha visto convirtiendo glaciares en polvo, es conocido por el Gremio como Ukanlos, aunque hay rumores de que pueda ser el Dios Blanco...",
+            "Notas": "El rugido de Ukanlos con tapón de oídos solo lo bloqueará a partir de su cola para fuera,más cerca aún con tapón +,si te acercas te afectará.",
+            "Signo debilidad": "Ninguno"
+        },
+        {
+            "Nombre": "Velocidrome",
+            "Tipo": "Wyvern volador",
+            "Descripción": "El monstruo alfa que lidera las manadas de Velociprey. Más grande y con una cresta prominente. Gran sentido territorial, se retira a zonas seguras para recuperarse.",
+            "Notas": "",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Vespoid Reina",
+            "Tipo": "Neopteron",
+            "Descripción": "Un enorme tórax y gigantescas alas brillantes marcan al Vespoid reina. Emite sus órdenes mediante patrones de vuelo únicos y pica a los intrusos con un aguijón venenoso paralizante. También escupe a sus presas un fluido corporal ácido.",
+            "Notas": "Se puede aturdir fácilmente con bombas de luz",
+            "Signo debilidad": "Ninguno"
+        },
+        {
+            "Nombre": "Yama Tsukami",
+            "Tipo": "Dragón Anciano",
+            "Descripción": "Un dragón anciano que flota a través de los cielos. Un trozo de tierra y de bosque, un verdadero dios del cielo hecho de la tierra más fértil. Árboles centenarios crecen gruesos en su espalda como si fuese una montaña. Se rumorea que vive cerca de una abandonada y remota torre.",
+            "Notas": "El estómago del Yama Tsukami se reduce conforme a su salud, las dos primeras veces el Yama Tsukami colapsará y caerá al fondo del área, y la tercera vez que se reduzca, morirá.",
+            "Signo debilidad": "Ninguno"
+        },
+        {
+            "Nombre": "Yian Garuga",
+            "Tipo": "Wyvern Pájaro",
+            "Descripción": "Una raza de Yian Kut-Ku con una dura concha negra y gran melena. Se conoce su astucia para esquivar trampas y su cola venenosa. ¡Es un Wyvern muy malo! ¡Ten cuidado!",
+            "Notas": "En algunas ocasiones, el Yian Garuga aparece con una oreja rota.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Yian Kut-Ku",
+            "Tipo": "Wyvern Pájaro",
+            "Descripción": "Wyvern en forma de pájaro de enorme pico y grandes orejas que expande al enfadarse. De agudo oído, le molestan los ruidos fuertes. Más pequeño y rápido que otros Wyverns.",
+            "Notas": "Las orejas del Yian Kut-ku se plegarán cuando esté moribundo.",
+            "Signo debilidad": "Cojea"
+        },
+        {
+            "Nombre": "Yian Kut-Ku Azul",
+            "Tipo": "Wyvern Pájaro",
+            "Descripción": "Wyvern en forma de pájaro de enorme pico y grandes orejas que expande al enfadarse. De agudo oído, le molestan los ruidos fuertes. Más pequeño y rápido que otros Wyverns.",
+            "Notas": "Las orejas del Yian Kut-ku se plegarán cuando esté moribundo.",
+            "Signo debilidad": "Cojea"
+        }
+    ]
+}
